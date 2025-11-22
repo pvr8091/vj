@@ -17,5 +17,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "2075f2655b96242a",
+        "key": "2075f2655b96242a",
+        "expirydate": "22-12-2025",
+        "Allowoffline": false
+    },
 
 ]
