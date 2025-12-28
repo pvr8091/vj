@@ -59,8 +59,15 @@
         "expirydate": "19-01-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "cb1f4898afeba743",
+        "key": "cb1f4898afeba743",
+        "expirydate": "30-01-2026",
+        "Allowoffline": false
+    },
     
 
 ]
+
 
 
