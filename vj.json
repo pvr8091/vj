@@ -77,9 +77,17 @@
         "expirydate": "30-01-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "fe168d280f2895ad",
+        "key": "fe168d280f2895ad",
+        "expirydate": "06-02-2026",
+        "Allowoffline": false
+    },
     
 
 ]
+
+
 
 
 
