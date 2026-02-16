@@ -101,6 +101,12 @@
         "expirydate": "13-03-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "a4eae00a24fa5431",
+        "key": "a4eae00a24fa5431",
+        "expirydate": "16-03-2026",
+        "Allowoffline": false
+    },
     
 
 ]
