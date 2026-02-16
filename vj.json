@@ -107,6 +107,12 @@
         "expirydate": "16-03-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "dfe94b73791c1b10",
+        "key": "dfe94b73791c1b10",
+        "expirydate": "16-03-2026",
+        "Allowoffline": false
+    },
     
 
 ]
