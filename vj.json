@@ -89,26 +89,7 @@
         "expirydate": "08-05-2026",
         "Allowoffline": false
     },
-    {
-        "device_id": "005c9f173a4bd027",
-        "key": "005c9f173a4bd027",
-        "expirydate": "07-05-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "1dffb158d4677d90",
-        "key": "1dffb158d4677d90",
-        "expirydate": "06-05-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "3b483f7d31a7e36e",
-        "key": "3b483f7d31a7e36e",
-        "expirydate": "06-05-2026",
-        "Allowoffline": false
-    },
-   
-
+  
 
 ]
 
