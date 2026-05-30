@@ -18,12 +18,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "2075f2655b96242a",
-        "key": "2075f2655b96242a",
-        "expirydate": "23-06-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "dd0f2ad8d93274fc",
         "key": "dd0f2ad8d93274fc",
         "expirydate": "05-06-2026",
@@ -33,12 +27,6 @@
         "device_id": "1fd7dab74471e19e",
         "key": "1fd7dab74471e19e",
         "expirydate": "06-06-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "ab0dd2eaf4338103",
-        "key": "ab0dd2eaf4338103",
-        "expirydate": "30-05-2026",
         "Allowoffline": false
     },
     {
