@@ -18,21 +18,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "1fd7dab74471e19e",
-        "key": "1fd7dab74471e19e",
-        "expirydate": "06-06-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "e6f1676ce5cf4310",
         "key": "e6f1676ce5cf4310",
         "expirydate": "05-07-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "240b70a744c84e47",
-        "key": "240b70a744c84e47",
-        "expirydate": "07-06-2026",
         "Allowoffline": false
     },
     {
