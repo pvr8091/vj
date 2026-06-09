@@ -77,6 +77,12 @@
         "expirydate": "09-07-2026",
         "Allowoffline": false
    },
+   {
+        "device_id": "240b70a744c84e47",
+        "key": "240b70a744c84e47",
+        "expirydate": "09-07-2026",
+        "Allowoffline": false
+   },
   
 ]
 
