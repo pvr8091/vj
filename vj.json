@@ -100,6 +100,12 @@
         "key": "ab0dd2eaf4338103",
         "expirydate": "11-09-2026",
         "Allowoffline": false
+   },
+   {
+        "device_id": "240b70a744c84e47",
+        "key": "240b70a744c84e47",
+        "expirydate": "13-09-2026",
+        "Allowoffline": false
    }
    
    
