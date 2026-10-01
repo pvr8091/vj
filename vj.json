@@ -50,7 +50,7 @@
    {
         "device_id": "544384c1cd481121",
         "key": "544384c1cd481121",
-        "expirydate": "16-09-2026",
+        "expirydate": "10-10-2026",
         "Allowoffline": false
    },
    {
@@ -124,10 +124,15 @@
         "key": "92db7c3323fc5e69",
         "expirydate": "25-10-2026",
         "Allowoffline": false
+   },
+   {
+        "device_id": "d73bcb6e25a83a06",
+        "key": "d73bcb6e25a83a06",
+        "expirydate": "20-10-2026",
+        "Allowoffline": false
    }
    
    
 ]
-
 
 
